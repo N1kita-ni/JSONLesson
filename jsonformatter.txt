@@ -1,0 +1,23 @@
+﻿[
+ {
+  "id": 1,
+  "name": "Урок 1 - Переменные, Типы Данных",
+  "date": "2020-10-25 12:34:00",
+  "image": "https://i9.ytimg.com/vi/SQ1iVYvffuc/mqdefault.jpg?v=6007d1d2&sqp=CIjanogG&rs=AOn4CLDF1ATcqG9UIpueVyLZmrcbU6swtg",
+  "link": "https://youtu.be/SQ1iVYvffuc"
+ },
+ {
+  "id": 2,
+  "name": "Урок 2 - Опциональные типы",
+  "date": "2020-10-25 08:34:00",
+  "image": "https://i9.ytimg.com/vi/Gn7W1QsO5f8/mqdefault.jpg?v=600a6609&sqp=CLTcnogG&rs=AOn4CLAjfcBi8RrSwZsFP5SQfgfkXYuEwQ",
+  "link": "https://youtu.be/Gn7W1QsO5f8"
+ },
+ {
+  "id": 3,
+  "name": "Урок 3 - Массив - Array",
+  "date": "2020-10-25 10:34:00",
+  "image": "https://i9.ytimg.com/vi/1AW2FuSKVAQ/mqdefault.jpg?v=600fb6b8&sqp=CLTcnogG&rs=AOn4CLDWi61gmZlqwTsowT4VPxUzxcSs0Q",
+  "link": "https://youtu.be/1AW2FuSKVAQ"
+ }
+]
